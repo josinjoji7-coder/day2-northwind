@@ -39,5 +39,25 @@ The tables relevant to this analysis:
    Revenue: 92181842.95
 5. Highest revenue customer: IT 
    Revenue: 9745371.289999997
+## SQL Output Screenshots
 
+### Top 10 Selling Products
+
+![Top Products](screenshots/top-products.png)
+
+### Top Customers by Revenue
+
+![Top Customers](screenshots/top-customers.png)
+
+### Monthly Sales Trend
+
+![Monthly Sales](screenshots/monthly-sales.png)
+
+### Best Product Categories
+
+![Category Sales](screenshots/sales-category.png)
+
+### Customer Purchase Frequency
+
+![Purchase Frequency](screenshots/frequent-customers.png)
 
